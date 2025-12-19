@@ -1,4 +1,4 @@
 flake8==7.3.0
 isort==7.0.0
-mypy==1.19.1
+mypy==1.19.0
 requests>=2.32.5
